@@ -1,0 +1,2 @@
+GO_YEAR = 2023
+TIME_SLICE = 3
